@@ -4,6 +4,5 @@ pandas
 seaborn
 matplotlib
 joblib
-tensorflow=2.11.0
 streamlit
-keras
+tensorflow==2.11.0

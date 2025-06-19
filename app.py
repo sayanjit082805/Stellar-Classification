@@ -166,7 +166,7 @@ st.subheader("Model Performance")
 
 st.write(
     """ 
-    The ANN achieved an accuracy of ~97%. For more detailed metrics, please consult the classification report in the jupyter notebook.    
+    The ANN achieved an accuracy of ~97%. For more detailed metrics, please consult the full classification report in the jupyter notebook.    
 """
 )
 
