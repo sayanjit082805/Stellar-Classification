@@ -37,9 +37,8 @@ The dataset has been taken from [Kaggle](https://www.kaggle.com/datasets/fedesor
 - `MJD` : Modified Julian Date, used to indicate when a given piece of SDSS data was taken.
 - `fiber_ID` : fiber ID that identifies the fiber that pointed the light at the focal plane in each observation.
 
->[!IMPORTANT] 
+>[!CITATIONS]
 >fedesoriano. (January 2022). Stellar Classification Dataset - SDSS17. 
-
 >Data originally from the Sloan Digital Sky Survey (SDSS), [Data Release 17](https://www.sdss.org/dr17/).
 
 
