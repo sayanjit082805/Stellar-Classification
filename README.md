@@ -1,10 +1,10 @@
 # Stellar-Classification
 A deep learning project to classify celestial objects (stars, galaxies, and quasars) based on their spectral characteristics using an Artificial Neural Network (ANN) trained on data from the Sloan Digital Sky Survey (SDSS).
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-![Python](https://img.shields.io/badge/python-3670A0?style: for-the-badge&logo: python&logoColor: ffdd54)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style: for-the-badge&logo: jupyter&logoColor: white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style: for-the-badge&logo: TensorFlow&logoColor: white)
 
 # Overview 
 This project aims to classify astronomical objects into three main categories :
@@ -37,7 +37,9 @@ The dataset has been taken from [Kaggle](https://www.kaggle.com/datasets/fedesor
 - `MJD` : Modified Julian Date, used to indicate when a given piece of SDSS data was taken.
 - `fiber_ID` : fiber ID that identifies the fiber that pointed the light at the focal plane in each observation.
 
-#### Citation 
-`fedesoriano. (January 2022). Stellar Classification Dataset - SDSS17.` 
+>[!IMPORTANT] 
+>fedesoriano. (January 2022). Stellar Classification Dataset - SDSS17. 
+
+>Data originally from the Sloan Digital Sky Survey (SDSS), [Data Release 17](https://www.sdss.org/dr17/).
 
 
