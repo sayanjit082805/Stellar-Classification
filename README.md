@@ -48,7 +48,7 @@ To determine whether a system is a star, galaxy or a quasar using the SDSS param
 - **Photometric Magnitudes (u, g, r, i, z)** 
 
 	These define the object's colour profile.
-	- **Stars** : Have specific color patterns (e.g., hotter stars appear bluer, cooler stars redder). For example, a star with u−g≈0u−g≈0 might be a blue star, while r−i>0.5 could indicate a red star.
+	- **Stars** : Have specific color patterns (e.g., hotter stars appear bluer, cooler stars redder). For example, a star with u−g≈0 might be a blue star, while r−i>0.5 could indicate a red star.
 	- **Galaxies** : Tend to be redder (dominated by older stellar populations) or have complex color profiles depending on star formation activity. For instance, a galaxy with g−r>0.7 might be a red elliptical, while i−z<0.3 could indicate a star-forming spiral.
 	- **Quasars** : Often exhibit unusual colors due to emission lines (e.g., excess blue light from accretion disks). A quasar might show u−g≈−0.5 (very blue) or r−i>1.0 (unusual redness from dust reddening).
 	- **Key Colour Indices** : u−g, g−r, r−i, i−z are commonly used to build colour-colour diagrams for classification.
