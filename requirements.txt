@@ -5,4 +5,4 @@ seaborn
 matplotlib
 joblib
 streamlit
-tensorflow
+tensorflow==2.10.0
