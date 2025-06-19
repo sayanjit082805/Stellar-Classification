@@ -4,7 +4,7 @@ from tensorflow.keras.models import load_model
 import joblib
 import numpy as np
 
-model = load_model("stellar_classification_model.keras")
+model = load_model("stellar_classification_model.kera", save_format="keras_v3")
 model_columns = joblib.load("stellar_classification_model_columns.pkl")
 scaler = joblib.load("stellar_scaler.pkl")
 
