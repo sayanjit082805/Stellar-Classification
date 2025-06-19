@@ -6,3 +6,4 @@ matplotlib
 joblib
 tensorflow
 streamlit
+keras
